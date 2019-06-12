@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: cac18930091dafa49881dfeff0c2a522
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 10_low
+    100002: 11_low
+    100004: 12_low
+    100006: 13_low
+    100008: 14_low
+    100010: 15_low
+    100012: 1_low
+    100014: 2_low
+    100016: 3_low
+    100018: 4_low
+    100020: 5_low
+    100022: 6_low
+    100024: 7_low
+    100026: 8_low
+    100028: 9_low
+    100030: //RootNode
+    400000: 10_low
+    400002: 11_low
+    400004: 12_low
+    400006: 13_low
+    400008: 14_low
+    400010: 15_low
+    400012: 1_low
+    400014: 2_low
+    400016: 3_low
+    400018: 4_low
+    400020: 5_low
+    400022: 6_low
+    400024: 7_low
+    400026: 8_low
+    400028: 9_low
+    400030: //RootNode
+    2100000: Radio
+    2300000: 10_low
+    2300002: 11_low
+    2300004: 12_low
+    2300006: 13_low
+    2300008: 14_low
+    2300010: 15_low
+    2300012: 1_low
+    2300014: 2_low
+    2300016: 3_low
+    2300018: 4_low
+    2300020: 5_low
+    2300022: 6_low
+    2300024: 7_low
+    2300026: 8_low
+    2300028: 9_low
+    3300000: 10_low
+    3300002: 11_low
+    3300004: 12_low
+    3300006: 13_low
+    3300008: 14_low
+    3300010: 15_low
+    3300012: 1_low
+    3300014: 2_low
+    3300016: 3_low
+    3300018: 4_low
+    3300020: 5_low
+    3300022: 6_low
+    3300024: 7_low
+    3300026: 8_low
+    3300028: 9_low
+    4300000: 5_low
+    4300002: 1_low
+    4300004: 6_low
+    4300006: 7_low
+    4300008: 8_low
+    4300010: 2_low
+    4300012: 4_low
+    4300014: 3_low
+    4300016: 10_low
+    4300018: 9_low
+    4300020: 13_low
+    4300022: 11_low
+    4300024: 12_low
+    4300026: 14_low
+    4300028: 15_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radio
+    second: {fileID: 2100000, guid: af6600a6bca7de4439e64fc5980fb682, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
